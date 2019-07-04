@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Viewer
+
+  Created by Dario Suarez on 30/06/2019.
+  Copyright © 2019 Dario Suarez. All rights reserved.
+*/
+"NO_INTERNET_ERROR" = "No estas conectado a internet";
+"SERVICE_ERROR" = "Oops! No hemos podido conectarnos al servidor. Intenta mas tarde";
